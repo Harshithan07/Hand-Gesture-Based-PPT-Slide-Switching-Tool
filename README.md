@@ -1,6 +1,6 @@
 # Hand-Gesture-Based-PPT-Slide-Switching-Tool
 
-This project is a Python-based PDF viewer that allows users to browse and zoom into PDF documents using hand gestures. With gesture recognition powered by MediaPipe, you can navigate through slides or pages without touching any buttons—just use simple hand gestures to swipe left or right!
+This project is a Python-based Slide Switcher that allows users to move and zoom into Presentations in PDF documents using hand gestures. With gesture recognition powered by MediaPipe, you can navigate through slides or pages without touching any buttons—just use simple hand gestures to swipe left or right!
 
 Features:
 Touchless Navigation: Use hand gestures to move between pages.
